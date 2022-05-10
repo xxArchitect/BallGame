@@ -4,7 +4,7 @@ BallGame
 This is a simple game built using Java and JavaFX, in which user needs to keep the ball flying in the window by 
 controlling a paddle with the arrow keys. 
 
-<a href="https://imgur.com/NpTmBYJ"><img src="https://i.imgur.com/NpTmBYJ.png" title="BallGame Demo" width="300" height="378" style="object-fit: cover;"/></a>
+<a href="https://imgur.com/NpTmBYJ"><img src="https://i.imgur.com/NpTmBYJ.png" title="BallGame Demo" width="300" height="375" style="object-fit: cover;"/></a>
 
 ## Features
 
