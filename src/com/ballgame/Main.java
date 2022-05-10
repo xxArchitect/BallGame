@@ -1,4 +1,4 @@
-package com.vinkovskiy;
+package com.ballgame;
 
 import javafx.animation.Animation;
 import javafx.animation.AnimationTimer;
@@ -20,13 +20,13 @@ import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-import static com.vinkovskiy.Difficulty.*;
-import static com.vinkovskiy.Direction.*;
+import static com.ballgame.Difficulty.*;
+import static com.ballgame.Direction.*;
 
 /* (c) 2021 Vasily Inkovskiy */
 public class Main extends Application {
 
-    //private instance variables
+    //private instance variableso % echo $PATH_TO_FX
       private Ball ball1 = new Ball();
       private Paddle paddle = new Paddle();
       private ScoreKeeper score = new ScoreKeeper();

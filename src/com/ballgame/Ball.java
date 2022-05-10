@@ -1,11 +1,11 @@
-package com.vinkovskiy;
+package com.ballgame;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 
-import static com.vinkovskiy.Difficulty.*;
-import static com.vinkovskiy.Direction.*;
+import static com.ballgame.Difficulty.*;
+import static com.ballgame.Direction.*;
 
 public class Ball {
     private double radius = 50; //original radius of ball

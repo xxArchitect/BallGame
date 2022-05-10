@@ -1,4 +1,4 @@
-package com.vinkovskiy;
+package com.ballgame;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;

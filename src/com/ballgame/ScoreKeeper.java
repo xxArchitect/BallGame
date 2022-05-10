@@ -1,10 +1,10 @@
-package com.vinkovskiy;
+package com.ballgame;
 
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 
-import static com.vinkovskiy.Difficulty.HARD;
+import static com.ballgame.Difficulty.HARD;
 
 public class ScoreKeeper {
     private int currentScore = 0;
