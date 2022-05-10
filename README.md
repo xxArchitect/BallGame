@@ -1,16 +1,13 @@
 BallGame
 ========
 
----
-
 This is a simple game built using Java and JavaFX, in which user needs to keep the ball flying in the window by 
 controlling a paddle with the arrow keys. 
 
-<a href="https://imgur.com/NpTmBYJ"><img src="https://i.imgur.com/NpTmBYJ.png" title="source: imgur.com" width="300" height="400"/></a>
+<a href="https://imgur.com/NpTmBYJ"><img src="https://i.imgur.com/NpTmBYJ.png" title="BallGame Demo" width="300" height="378" style="object-fit: cover;"/></a>
 
 ## Features
 
----
 - Displays how score changes during the game
 - Allows to pause/continue the game
 - Allows to reset the game by nullifying score
@@ -19,10 +16,8 @@ controlling a paddle with the arrow keys.
 
 ## Setup
 
----
-
 This application was built using [**Java SDK 16.0.1**](https://www.oracle.com/java/technologies/downloads/) and [**JavaFX SDK 16**](https://gluonhq.com/products/javafx/).
 
-1. Download and install Java SDK and JavaFX SDK, configure them in the IDE. 
+1. Download and install Java SDK and JavaFX SDK and configure them in the IDE. 
 2. Clone this repository and build the project. 
 3. Run the game!
