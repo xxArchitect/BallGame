@@ -254,7 +254,8 @@ public class Main extends Application {
                         paddle.downMoveAlongY(moveIncrement);
                         text += "DOWN";
                      }
-                    System.out.println("key press: " + text);
+                     // Debugging statement
+                     // System.out.println("key press: " + text);
                     ke.consume(); //don't let keyboard event propagate
                 }
             });
