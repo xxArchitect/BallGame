@@ -1,4 +1,4 @@
-BallGame
+Ball Game
 ========
 
 This is a simple game built using Java and JavaFX, in which user needs to keep the ball flying in the window by 
